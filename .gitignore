@@ -11,8 +11,7 @@ bahria-env/
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Data directory
-data/
+
 
 # SSL certificates
 *.pem
