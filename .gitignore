@@ -1,0 +1,19 @@
+# Environment variables (to protect API keys)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+bahria-env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data directory
+data/
+
+# SSL certificates
+*.pem
+certificate.pem
